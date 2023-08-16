@@ -25,7 +25,7 @@ Welcome to the **Infrastructure Setup ** repository! This project demonstrates h
 
 ## Getting Started
 
-To get started with the **Configuring Settings** project, follow these steps:
+To get started with the project, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Install the required dependencies listed at the top of the notebook.
