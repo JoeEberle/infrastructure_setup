@@ -1,3 +1,5 @@
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 2024-03-11 09:39:16,496 - INFO - START infrastructure_setup =============================================
 2024-03-11 09:39:16,496 - INFO - START infrastructure_setup Start Time = 2024-03-11 09:39:16
 2024-03-11 09:39:16,496 - INFO - infrastructure_setup Step 0 - Initialize the configuration file parser
@@ -27,3 +29,6 @@
 2024-03-11 09:39:21,914 - INFO - PERFORMANCE infrastructure_setup Low process duration less than 3 minutes:5.42
 2024-03-11 09:39:21,914 - INFO - PERFORMANCE infrastructure_setup Performance optimization is optional
 2024-03-11 09:39:21,914 - INFO - END infrastructure_setup =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
