@@ -1,29 +1,28 @@
-2024-03-11 09:39:16,496 - INFO - START infrastructure_setup =============================================
-2024-03-11 09:39:16,496 - INFO - START infrastructure_setup Start Time = 2024-03-11 09:39:16
-2024-03-11 09:39:16,496 - INFO - infrastructure_setup Step 0 - Initialize the configuration file parser
-2024-03-11 09:39:16,508 - INFO - infrastructure_setup - Step 1 establish infrastructure directory to organize all files
-2024-03-11 09:39:16,509 - INFO - infrastructure_setup - Creating if non-existent : c://infrastructure/html
-2024-03-11 09:39:16,509 - INFO - infrastructure_setup - Creating if non-existent : c://infrastructure/excel
-2024-03-11 09:39:16,509 - INFO - infrastructure_setup - Creating if non-existent : c://infrastructure/jupyter_notebook
-2024-03-11 09:39:16,509 - INFO - infrastructure_setup - Creating if non-existent : c://infrastructure/documentation
-2024-03-11 09:39:16,510 - INFO - infrastructure_setup - Creating if non-existent : c://infrastructure/database
-2024-03-11 09:39:16,510 - INFO - infrastructure_setup - Creating if non-existent : c://infrastructure/powerbi
-2024-03-11 09:39:16,510 - INFO - infrastructure_setup - Creating if non-existent : c://infrastructure/tableau
-2024-03-11 09:39:16,511 - INFO - infrastructure_setup - Creating if non-existent : c://infrastructure/images
-2024-03-11 09:39:16,511 - INFO - infrastructure_setup - Creating if non-existent : c://infrastructure/csv
-2024-03-11 09:39:16,511 - INFO - infrastructure_setup - Creating if non-existent : c://infrastructure/parquet
-2024-03-11 09:39:16,512 - INFO - infrastructure_setup - Creating if non-existent : c://infrastructure/feather
-2024-03-11 09:39:16,512 - INFO - infrastructure_setup - Creating if non-existent : c://infrastructure/pickle
-2024-03-11 09:39:16,512 - INFO - infrastructure_setup - Creating if non-existent : c://infrastructure/text
-2024-03-11 09:39:16,512 - INFO - infrastructure_setup - Creating if non-existent : c://infrastructure/presentation
-2024-03-11 09:39:16,512 - INFO - infrastructure_setup - Creating if non-existent : c://infrastructure/jaepy
-2024-03-11 09:39:16,513 - INFO - infrastructure_setup - Creating if non-existent : c://infrastructure/py
-2024-03-11 09:39:16,513 - INFO - infrastructure_setup - Creating if non-existent : c://infrastructure/log
-2024-03-11 09:39:16,527 - INFO - infrastructure_setup - Step 3 Organize (copy all file types) into appropriate infrastructure directories
-2024-03-11 09:39:16,585 - INFO - infrastructure_setup - Step 2 Rename the py files to make easier to email
-2024-03-11 09:39:16,804 - INFO - infrastructure_setup - Step 4 copy and backup all infrastructure to a team shareable location
-2024-03-11 09:39:21,914 - INFO - PERFORMANCE infrastructure_setup The total process duration was:5.42
-2024-03-11 09:39:21,914 - INFO - PERFORMANCE infrastructure_setup Stop Time = 2024-03-11 09:39:21
-2024-03-11 09:39:21,914 - INFO - PERFORMANCE infrastructure_setup Low process duration less than 3 minutes:5.42
-2024-03-11 09:39:21,914 - INFO - PERFORMANCE infrastructure_setup Performance optimization is optional
-2024-03-11 09:39:21,914 - INFO - END infrastructure_setup =============================================
+2024-03-16 10:30:05,340 - INFO - START infrastructure_setup =============================================
+2024-03-16 10:30:05,340 - INFO - START infrastructure_setup Start Time = 2024-03-16 10:30:05
+2024-03-16 10:30:05,340 - INFO - infrastructure_setup Step 0 - Initialize the configuration file parser
+2024-03-16 10:30:05,352 - INFO - infrastructure_setup - Step 1 establish infrastructure directory to organize all files
+2024-03-16 10:30:05,352 - INFO - infrastructure_setup - Creating if non-existent : c://infrastructure/html
+2024-03-16 10:30:05,352 - INFO - infrastructure_setup - Creating if non-existent : c://infrastructure/excel
+2024-03-16 10:30:05,353 - INFO - infrastructure_setup - Creating if non-existent : c://infrastructure/jupyter_notebook
+2024-03-16 10:30:05,353 - INFO - infrastructure_setup - Creating if non-existent : c://infrastructure/documentation
+2024-03-16 10:30:05,353 - INFO - infrastructure_setup - Creating if non-existent : c://infrastructure/database
+2024-03-16 10:30:05,353 - INFO - infrastructure_setup - Creating if non-existent : c://infrastructure/powerbi
+2024-03-16 10:30:05,353 - INFO - infrastructure_setup - Creating if non-existent : c://infrastructure/tableau
+2024-03-16 10:30:05,353 - INFO - infrastructure_setup - Creating if non-existent : c://infrastructure/images
+2024-03-16 10:30:05,353 - INFO - infrastructure_setup - Creating if non-existent : c://infrastructure/csv
+2024-03-16 10:30:05,353 - INFO - infrastructure_setup - Creating if non-existent : c://infrastructure/parquet
+2024-03-16 10:30:05,353 - INFO - infrastructure_setup - Creating if non-existent : c://infrastructure/feather
+2024-03-16 10:30:05,353 - INFO - infrastructure_setup - Creating if non-existent : c://infrastructure/pickle
+2024-03-16 10:30:05,353 - INFO - infrastructure_setup - Creating if non-existent : c://infrastructure/text
+2024-03-16 10:30:05,353 - INFO - infrastructure_setup - Creating if non-existent : c://infrastructure/presentation
+2024-03-16 10:30:05,353 - INFO - infrastructure_setup - Creating if non-existent : c://infrastructure/jaepy
+2024-03-16 10:30:05,353 - INFO - infrastructure_setup - Creating if non-existent : c://infrastructure/py
+2024-03-16 10:30:05,353 - INFO - infrastructure_setup - Creating if non-existent : c://infrastructure/log
+2024-03-16 10:30:05,372 - INFO - infrastructure_setup - Step 3 Organize (copy all file types) into appropriate infrastructure directories
+2024-03-16 10:30:05,397 - INFO - infrastructure_setup - Step 2 Rename the py files to make easier to email
+2024-03-16 10:30:05,506 - INFO - PERFORMANCE infrastructure_setup The total process duration was:0.17
+2024-03-16 10:30:05,506 - INFO - PERFORMANCE infrastructure_setup Stop Time = 2024-03-16 10:30:05
+2024-03-16 10:30:05,506 - INFO - PERFORMANCE infrastructure_setup Short process duration less than 3 Seconds:0.17
+2024-03-16 10:30:05,506 - INFO - PERFORMANCE infrastructure_setup Performance optimization is not reccomended
+2024-03-16 10:30:05,506 - INFO - END infrastructure_setup =============================================
