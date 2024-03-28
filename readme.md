@@ -1,4 +1,6 @@
-# Infrastructure Setup - Welcome to the **Infrastructure Setup ** repository! This project demonstrates how to a establish an Infrastructure Directory to copy, maintain, and archive All of your work in progress. NEVER LOSE YOUR WORK IN PROGRESS AGAIN!!!!. Moves files wherever you need them. 
+# Infrastructure Setup - Welcome to the **Infrastructure Setup ** repository! 
+
+##This project demonstrates how to a establish an Infrastructure Directory to copy, maintain, and archive All of your work in progress. NEVER LOSE YOUR WORK IN PROGRESS AGAIN!!!!. Moves files wherever you need them. 
 
 ![Code Logo](code.png)
 
