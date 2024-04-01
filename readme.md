@@ -1,12 +1,12 @@
-# Automate Github - Welcome to the **automate_github ** repository! This project autobmate github through the API . 
+# Infrastructure Setup - Welcome to the **Infrastructure Setup ** repository! This project demonstrates how to a establish an Infrastructure Directory to copy, maintain, and archive All of your work in progress. NEVER LOSE YOUR WORK IN PROGRESS AGAIN!!!!. Moves files wherever you need them. 
 
 ![Code Logo](code.png)
 
 ## Description
 
-Welcome to the solution Automate Github - an example for your projects
+Welcome to the solution Infrastructure Setup - an example for your projects
 
-Welcome to the **automate_github ** repository! This project autobmate github through the API . 
+Welcome to the **Infrastructure Setup ** repository! This project demonstrates how to a establish an Infrastructure Directory to copy, maintain, and archive All of your work in progress. NEVER LOSE YOUR WORK IN PROGRESS AGAIN!!!!. Moves files wherever you need them. 
 
 
 ## Features
@@ -30,7 +30,7 @@ Welcome to the **automate_github ** repository! This project autobmate github th
 
 ## Getting Started
 
-To get started with the Automate Github solution, follow these steps:
+To get started with the Infrastructure Setup solution, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Install the required dependencies listed at the top of the notebook.
