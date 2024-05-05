@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Infrastructure Setup - Welcome to the **Infrastructure Setup ** repository! This project demonstrates how to a establish an Infrastructure Directory to copy, maintain, and archive All of your work in progress. NEVER LOSE YOUR WORK IN PROGRESS AGAIN!!!! .Backs up and saves your work.  Moves files wherever you need them. 
 Welcome to the **Infrastructure Setup ** repository! This project demonstrates how to a establish an Infrastructure Directory to copy, maintain, and archive All of your work in progress. NEVER LOSE YOUR WORK IN PROGRESS AGAIN!!!! .Backs up and saves your work.  Moves files wherever you need them. 
 
@@ -9,8 +11,6 @@ Welcome to the solution **Infrastructure Setup** - an example for your projects
 Welcome to the **Infrastructure Setup ** repository! This project demonstrates how to a establish an Infrastructure Directory to copy, maintain, and archive All of your work in progress. NEVER LOSE YOUR WORK IN PROGRESS AGAIN!!!! .Backs up and saves your work.  Moves files wherever you need them. 
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
