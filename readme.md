@@ -48,5 +48,5 @@ To get started with the **Infrastructure Setup** solution repository, follow the
 ![Brand](brand.png)
     
 ## Deliverables or Figures
- ![additional_image](infrastructure_setup.png)  <br>![additional_image](joe_logo.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
+ ![additional_image](infrastructure_setup.png)  <br>![additional_image](joe_logo.png)  <br>
     
