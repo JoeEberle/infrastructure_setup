@@ -1,12 +1,14 @@
 
 ![Image image_filename](solution_sign.png)
 
-# Infrastructure Setup - Welcome to the **Infrastructure Setup ** repository! This project demonstrates how to a establish an Infrastructure Directory to copy, maintain, and archive All of your work in progress.  
-Welcome to the **Infrastructure Setup ** repository! This project demonstrates how to a establish an Infrastructure Directory to copy, maintain, and archive All of your work in progress.  
+# Infrastructure Setup -  This solution establishes an Infrastructure Directory to copy, secure. maintain, and archive All of your work in progress.  
+ This solution establishes an Infrastructure Directory to copy, secure. maintain, and archive All of your work in progress.  
 
 ![Image image_filename](code.png)
 
 ## Streamlining Data Management with an Infrastructure Setup Solution
+
+**NEVER LOSE YOUR HARD WORK AGAIN !!!** 
 
 Effective data management is crucial for both **individual productivity** and **team collaboration**.
 
