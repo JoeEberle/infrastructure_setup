@@ -98,3 +98,36 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
                                                                                                                         
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-05-31 13:54:44,938 - INFO - START infrastructure_setup =============================================
+2024-05-31 13:54:44,938 - INFO - START infrastructure_setup Start Time = 2024-05-31 13:54:44
+2024-05-31 13:54:44,938 - INFO - infrastructure_setup Step 0 - Initialize the configuration file parser
+2024-05-31 13:54:44,951 - INFO - infrastructure_setup - Step 1 establish infrastructure directory to organize all files
+2024-05-31 13:54:44,951 - INFO - infrastructure_setup - Creating if non-existent : c://infrastructure/html
+2024-05-31 13:54:44,952 - INFO - infrastructure_setup - Creating if non-existent : c://infrastructure/excel
+2024-05-31 13:54:44,952 - INFO - infrastructure_setup - Creating if non-existent : c://infrastructure/jupyter_notebook
+2024-05-31 13:54:44,952 - INFO - infrastructure_setup - Creating if non-existent : c://infrastructure/documentation
+2024-05-31 13:54:44,952 - INFO - infrastructure_setup - Creating if non-existent : c://infrastructure/database
+2024-05-31 13:54:44,952 - INFO - infrastructure_setup - Creating if non-existent : c://infrastructure/powerbi
+2024-05-31 13:54:44,952 - INFO - infrastructure_setup - Creating if non-existent : c://infrastructure/tableau
+2024-05-31 13:54:44,952 - INFO - infrastructure_setup - Creating if non-existent : c://infrastructure/images
+2024-05-31 13:54:44,952 - INFO - infrastructure_setup - Creating if non-existent : c://infrastructure/csv
+2024-05-31 13:54:44,952 - INFO - infrastructure_setup - Creating if non-existent : c://infrastructure/parquet
+2024-05-31 13:54:44,952 - INFO - infrastructure_setup - Creating if non-existent : c://infrastructure/feather
+2024-05-31 13:54:44,953 - INFO - infrastructure_setup - Creating if non-existent : c://infrastructure/pickle
+2024-05-31 13:54:44,953 - INFO - infrastructure_setup - Creating if non-existent : c://infrastructure/text
+2024-05-31 13:54:44,953 - INFO - infrastructure_setup - Creating if non-existent : c://infrastructure/presentation
+2024-05-31 13:54:44,953 - INFO - infrastructure_setup - Creating if non-existent : c://infrastructure/jaepy
+2024-05-31 13:54:44,953 - INFO - infrastructure_setup - Creating if non-existent : c://infrastructure/py
+2024-05-31 13:54:44,953 - INFO - infrastructure_setup - Creating if non-existent : c://infrastructure/log
+2024-05-31 13:54:44,970 - INFO - infrastructure_setup - Step 3 Organize (copy all file types) into appropriate infrastructure directories
+2024-05-31 13:54:45,010 - INFO - infrastructure_setup - Step 2 Rename the py files to make easier to email
+2024-05-31 13:54:45,149 - INFO - PERFORMANCE infrastructure_setup The total process duration was:0.21
+2024-05-31 13:54:45,149 - INFO - PERFORMANCE infrastructure_setup Stop Time = 2024-05-31 13:54:45
+2024-05-31 13:54:45,149 - INFO - PERFORMANCE infrastructure_setup Short process duration less than 3 Seconds:0.21
+2024-05-31 13:54:45,149 - INFO - PERFORMANCE infrastructure_setup Performance optimization is not reccomended
+2024-05-31 13:54:45,150 - INFO - END infrastructure_setup =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
