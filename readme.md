@@ -1,8 +1,8 @@
 
 ![Image image_filename](solution_sign.png)
 
-# Infrastructure Setup -  This solution establishes an Infrastructure Directory to copy, secure. maintain, and archive All of your work in progress.  
- This solution establishes an Infrastructure Directory to copy, secure. maintain, and archive All of your work in progress.  
+# Infrastructure Setup - nan
+nan
 
 ![Image image_filename](code.png)
 
