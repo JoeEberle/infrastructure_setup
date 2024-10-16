@@ -64,11 +64,8 @@ To get started with the **Infrastructure Setup** solution repository, follow the
  ![additional_image](infrastructure_setup.png)  <br>![additional_image](joe_logo.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
