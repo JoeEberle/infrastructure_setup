@@ -4,7 +4,25 @@
 
 ## infrastructure_setup
 
-    ![Image image_filename](code.png)
+    
+![Solution](code.png)
+
+    
+## Table of Contents
+
+- [Solution Overview](#solution-overview)
+- [Who will use this ?](#who-can-use)
+- [Advantages of Using](#advantages-of-using)
+- [Return on Investment (ROI)](#return-on-investment-roi)
+- [How it Works](#how-it-works)
+- [Conclusion](#conclusion)
+- [Getting Started](#getting-started)
+- [Solution Features](#solution-features)
+- [Code Features](#code-features)
+- [Deliverables or Figures](#deliverables-or-figures)
+- [Contact Information](#contact-information)
+
+
 ## Streamlining Data Management with an Infrastructure Setup Solution
 
 **NEVER LOSE YOUR HARD WORK AGAIN !!!** 
@@ -33,7 +51,13 @@ Organization and backup that used to take days now takes only seconds.
 ## Conclusion
 In conclusion, an **infrastructure setup solution** is a vital tool for efficient data management. It benefits a wide range of users by ensuring organized, secure, and accessible data, ultimately leading to significant time savings and improved collaboration.
  
-![Image image_filename](code.png)![Image image_filename](sample.png)
+
+![Solution](code.png)
+
+    
+![Solution](code.png)
+
+    
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
