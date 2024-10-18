@@ -1,11 +1,4 @@
-
-![Image image_filename](solution_sign.png)
-
-# Infrastructure Setup - infrastructure_setup
-infrastructure_setup
-
-![Image image_filename](code.png)
-
+![Image image_filename](solution_sign.png)# Infrastructure Setup - infrastructure_setup![Image image_filename](code.png)
 ## Streamlining Data Management with an Infrastructure Setup Solution
 
 **NEVER LOSE YOUR HARD WORK AGAIN !!!** 
@@ -34,9 +27,7 @@ Organization and backup that used to take days now takes only seconds.
 ## Conclusion
 In conclusion, an **infrastructure setup solution** is a vital tool for efficient data management. It benefits a wide range of users by ensuring organized, secure, and accessible data, ultimately leading to significant time savings and improved collaboration.
  
-
 ![Image image_filename](sample.png)
-
 ## Getting Started
 To get started with the **Infrastructure Setup** solution repository, follow these steps:
 1. Clone the repository to your local machine.
@@ -51,6 +42,9 @@ To get started with the **Infrastructure Setup** solution repository, follow the
 - Its Fast and Automated
 
 ## Notebook Features
+
+The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
+
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
 - **Easily Configurable** - Easily modify with **config.INI** - keyname value pairs
@@ -60,13 +54,11 @@ To get started with the **Infrastructure Setup** solution repository, follow the
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
     
-## Deliverables or Figures
+## List of Figures
  ![additional_image](infrastructure_setup.png)  <br>![additional_image](joe_logo.png)  <br>
     
 
-## Github    https://github.com/JoeEberle/ 
-## Email  josepheberle@outlook.com 
-
+## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
     
 ![Developer](developer.png)
 
