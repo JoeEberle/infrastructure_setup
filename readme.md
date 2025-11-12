@@ -4,11 +4,7 @@
 
 ## infrastructure_setup
 
-    
-![Solution](code.png)
-
-    
-
+    ![Image image_filename](code.png)
 ## Streamlining Data Management with an Infrastructure Setup Solution
 
 **NEVER LOSE YOUR HARD WORK AGAIN !!!** 
@@ -37,13 +33,7 @@ Organization and backup that used to take days now takes only seconds.
 ## Conclusion
 In conclusion, an **infrastructure setup solution** is a vital tool for efficient data management. It benefits a wide range of users by ensuring organized, secure, and accessible data, ultimately leading to significant time savings and improved collaboration.
  
-
-![Solution](code.png)
-
-    
-![Solution](code.png)
-
-    
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
